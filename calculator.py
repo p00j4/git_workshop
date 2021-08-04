@@ -1,4 +1,4 @@
-# Program make a simple calculator
+ef# Program make a simple calculator
 
 # This function adds two numbers
 def add(x, y):
@@ -9,4 +9,7 @@ def subtract(a, b):
     return a - b
 
 
-  
+def mul(a,b):
+    return a * b
+    
+    
