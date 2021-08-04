@@ -7,6 +7,10 @@ def add(x, y):
 # This function subtracts two numbers
 def subtract(a, b):
     return a - b
+    
+def mul(a,b):
+    return a*b
+    
 
 
   
